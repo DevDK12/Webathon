@@ -27,7 +27,7 @@ a {
 .top-wrapper {
   
   padding: 180px 0 100px 0;
-  background-image: url(https://github.com/DevDK12/Webathon.git/Images/pic2.jpeg);
+  background-image: url("Images/pic2.jpeg");
   background-repeat:no-repeat;
   background-size:cover;
   color: white;
@@ -39,7 +39,7 @@ a {
   width:180px;
   height:200px;
   border-radius:50%;
-  background-image: url(https://github.com/DevDK12/Webathon.git/Images/mypic2.jpg);
+  background-image: url("Images/mypic2.jpg");
   margin-left:auto;
   margin-right:auto;
   color: white;
